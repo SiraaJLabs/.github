@@ -1,0 +1,1 @@
+SiraajLabs is a software engineering company focused on building reliable, scalable, and thoughtfully designed digital solutions. We prioritize clarity, efficiency, and long-term value in every system we create.
